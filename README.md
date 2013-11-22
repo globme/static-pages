@@ -1,0 +1,1 @@
+Sample application for Ruby on Rails. RoR tutorial @ http://railstutorial.org
